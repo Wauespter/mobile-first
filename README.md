@@ -9,7 +9,7 @@ Projeto frontend de interface responsiva desenvolvido com o conceito de Mobile F
 * Seção de tópicos visitados recentemente permitindo que o usuário navegue rapidamente pelos tópicos mais populares, acessados anteriormente.
 * Seção do rodapé,com a possibilidade do usuário se cadastrar para receber ofertas e informações da empresa, além dos links para outros sites, produtos, empresas relacionadas.
 
-![Prints das versões do site em Smartphone, tablets e desktop](https://imgur.com/a/RZgjnNz)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/RZgjnNz"  ><a href="//imgur.com/a/RZgjnNz">Páginas Front End</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <h1 align= "center"> Técnicas e tecnologias utilizadas </h1>
 Faça uma lista de tecnologias e técnicas utilizadas (a justificativa e descrição são opcionais):
